@@ -1,4 +1,68 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Govinda Kumar ======================================================================================================================================  Software Developer ------------------  * 🌍  I'm based in India * ✉️  You can contact me at [govindkumarcai123@gmail.com](mailto:govindkumarcai123@gmail.com) * 🧠  I'm currently learning Web Developing * 💬  Ask me about Always learning, always improving
+<h1 align="center">Hi 👋, I'm Govind Kumar</h1>
+<h3 align="center">ECE Student | C++ | DSA | Web Developer</h3>
 
-<p align="left"> <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" alt="C" title="C" width="36" height="36" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" alt="C++" title="C++" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" alt="JavaScript" title="JavaScript" width="36" height="36" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" alt="Python" title="Python" width="36" height="36" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" alt="VS Code" title="VS Code" width="36" height="36" /></a><a href="https://www.sublimetext.com/index2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sublimetext-colored.svg" alt="Sublime Text" title="Sublime Text" width="36" height="36" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" alt="HTML5" title="HTML5" width="36" height="36" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" alt="CSS3" title="CSS3" width="36" height="36" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" alt="React" title="React" width="36" height="36" /></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored-dark.svg" alt="NextJs" title="NextJs" width="36" height="36" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" alt="NodeJS" title="NodeJS" width="36" height="36" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" alt="Linux" title="Linux" width="36" height="36" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored-dark.svg" alt="MacOS" title="MacOS" width="36" height="36" /></a> </p> 
- ### Socials  <p align="left"> <a href="https://www.linkedin.com/in/govinda-kumar-5a629a36b/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
+
+## 🚀 About Me
+
+🎓 2nd Year B.Tech - Electronics & Communication Engineering
+💻 Passionate about Software Development & Problem Solving
+🌱 Currently Learning C++ , DSA , Web Development
+🎯 Goal: Seeking Internship Opportunities
+
+---
+
+## 🛠️ Skills
+
+<p align="left">
+<img src="https://skillicons.dev/icons?i=cpp,c,js,html,css,python,react,nodejs,linux,git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Projects
+
+### 📝 To-Do List Web App
+
+• HTML, CSS, JavaScript
+• Add, Delete, Mark Complete Tasks
+🔗 https://github.com/CODER-G45/todo-list-project
+
+---
+
+### 🎓 Student Management System
+
+• C++ | OOP
+• Add, Search, Delete Students
+🔗 https://github.com/CODER-G45/student-management-system
+
+---
+
+### 🧩 Sudoku Solver
+
+• C++ | Backtracking Algorithm
+• Automatic Sudoku Solver
+🔗 https://github.com/CODER-G45
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=CODER-G45&show_icons=true&theme=tokyonight" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=CODER-G45&theme=tokyonight" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [govindkumarcai123@gmail.com](mailto:govindkumarcai123@gmail.com)
+💻 GitHub: https://github.com/CODER-G45
+
+---
+
+⭐ From [Govind Kumar](https://github.com/CODER-G45)
