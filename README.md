@@ -42,7 +42,7 @@
 
 • C++ | Backtracking Algorithm
 • Automatic Sudoku Solver
-🔗 https://github.com/CODER-G45
+🔗 https://github.com/CODER-G45](https://coder-g45.github.io/suduko-solver-web/
 
 ---
 
